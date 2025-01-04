@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
-    "denamed": "^2.0.4"
+    "denamed": "^2.0.4",
+    "dotenv": "^16.4.7"
   }
 }
